@@ -1,0 +1,11 @@
+D:\Desktop\учеба\2 семестр\алгоритмы и структуры данных\labs\11var5.1\bin\Debug\netcoreapp3.1\11var5.1.exe
+D:\Desktop\учеба\2 семестр\алгоритмы и структуры данных\labs\11var5.1\bin\Debug\netcoreapp3.1\11var5.1.deps.json
+D:\Desktop\учеба\2 семестр\алгоритмы и структуры данных\labs\11var5.1\bin\Debug\netcoreapp3.1\11var5.1.runtimeconfig.json
+D:\Desktop\учеба\2 семестр\алгоритмы и структуры данных\labs\11var5.1\bin\Debug\netcoreapp3.1\11var5.1.runtimeconfig.dev.json
+D:\Desktop\учеба\2 семестр\алгоритмы и структуры данных\labs\11var5.1\bin\Debug\netcoreapp3.1\11var5.1.dll
+D:\Desktop\учеба\2 семестр\алгоритмы и структуры данных\labs\11var5.1\bin\Debug\netcoreapp3.1\11var5.1.pdb
+D:\Desktop\учеба\2 семестр\алгоритмы и структуры данных\labs\11var5.1\obj\Debug\netcoreapp3.1\11var5.1.csprojAssemblyReference.cache
+D:\Desktop\учеба\2 семестр\алгоритмы и структуры данных\labs\11var5.1\obj\Debug\netcoreapp3.1\11var5.1.AssemblyInfoInputs.cache
+D:\Desktop\учеба\2 семестр\алгоритмы и структуры данных\labs\11var5.1\obj\Debug\netcoreapp3.1\11var5.1.AssemblyInfo.cs
+D:\Desktop\учеба\2 семестр\алгоритмы и структуры данных\labs\11var5.1\obj\Debug\netcoreapp3.1\11var5.1.dll
+D:\Desktop\учеба\2 семестр\алгоритмы и структуры данных\labs\11var5.1\obj\Debug\netcoreapp3.1\11var5.1.pdb
