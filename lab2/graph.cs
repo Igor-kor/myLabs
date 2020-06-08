@@ -41,7 +41,6 @@ namespace lab2graph
 
         private void deleteNotLoop()
         {
-            int[] nodes = new int[N * N];
             for (int i = 0; i < N; i++)
             {
                 int count = 0;
